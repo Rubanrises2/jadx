@@ -1,0 +1,1 @@
+FileUtils.getInstance().setXXTEASignAndKey(String sign, String key)
